@@ -12,15 +12,15 @@ Sunucu Tabanlı Programlama - Karar Destek Sistemleri - Mekansal Veritabanları
 
 ![personeller](https://user-images.githubusercontent.com/70021191/147909126-609d8b5e-59d0-44dd-9ef5-547f109c241b.jpg)
 
---
+---
 
 ![departmanlar](https://user-images.githubusercontent.com/70021191/147909137-63998d9a-7e17-4d36-9e73-7d4c4132fa68.jpg)
 
---
+---
 
 ![müşteriler](https://user-images.githubusercontent.com/70021191/147909167-e90c360d-abde-488d-bf89-87fd9e007823.jpg)
 
---
+---
 
 
 
