@@ -2,7 +2,7 @@ Sunucu Tabanlı Programlama - Karar Destek Sistemleri - Mekansal Veritabanları
 
 ---
 
-![yönetici giriş sayfası](https://user-images.githubusercontent.com/70021191/147909095-cca80ad9-510f-4c00-b4e0-17e5874f0e67.jpg)
+                    ![yönetici giriş sayfası](https://user-images.githubusercontent.com/70021191/147909095-cca80ad9-510f-4c00-b4e0-17e5874f0e67.jpg)
 
 ---
 
