@@ -1,1 +1,1 @@
-## Sunucu Tabanlı Programlama - Karar Destek Sistemleri - Mekansal Veritabanları
+# Sunucu Tabanlı Programlama - Karar Destek Sistemleri - Mekansal Veritabanları
